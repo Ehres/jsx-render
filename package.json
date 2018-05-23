@@ -1,5 +1,5 @@
 {
-  "name": "jsx-render",
+  "name": "manomano@jsx-render",
   "version": "0.6.2",
   "description": "",
   "main": "lib/dom.js",
@@ -21,7 +21,7 @@
   "scripts": {
     "dev": "babel src --out-dir lib --watch",
     "build": "babel src --out-dir lib --copy-files",
-    "prepublish": "npm run build",
+    "prepare": "npm run build",
     "test": "ava --verbose"
   },
   "ava": {
