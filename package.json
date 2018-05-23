@@ -1,5 +1,5 @@
 {
-  "name": "manomano@jsx-render",
+  "name": "@manomano/jsx-render",
   "version": "0.6.2",
   "description": "",
   "main": "lib/dom.js",
